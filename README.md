@@ -38,7 +38,7 @@ Daily prices of 11 large U.S. companies from three sectors, January 2015 to Dece
 | `4_CatBoost.ipynb` | CatBoost (five seeds) |
 | `5_TabPFN.ipynb` | TabPFN v2.5 (optional, needs a GPU) |
 | `6_Results.ipynb` | Validation table, main results table, Friedman and Wilcoxon tests, matched comparison of the settings |
-| `7_Error_analysis.ipynb` | Confusion matrices, results per held-out stock, sector and year, feature importance, calibration |
+| `7_Error_analysis.ipynb` | Confusion matrices, results per held-out stock, sector and year, feature importance |
 | `8_Checks.ipynb` | Eight data and leakage checks |
 | `Makefile` | Runs the whole pipeline |
 
